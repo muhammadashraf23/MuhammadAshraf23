@@ -19,10 +19,10 @@
 
 > Passionate Full Stack Developer from Pakistan, crafting scalable web applications with modern technologies.
 
-- 🔭 Currently building: **[Baltistan Baking Store](https://baltistanbakingstore.vercel.app/)** - Full-featured e-commerce platform
-- 🌱 Learning: **TypeScript** to enhance type safety and code quality
-- 💡 Expertise: **JavaScript**, **React**, **Next.js**, **Node.js**
-- 🎯 Focus: Creating seamless user experiences with clean, maintainable code
+- 🔭 🔭 Currently building: Real-time Pakistani Sign Language (PSL) recognition app — Expo/React Native frontend, FastAPI + TFLite/BiLSTM backend, server-side MediaPipe landmark extraction over WebSocket
+- 🌱 Learning: ML model deployment and optimization for real-time inference
+- 💡 Expertise: TypeScript, React, Next.js, Node.js, React Native, Socket.io, WebRTC
+- 🎯 Focus: Building scalable, production-ready full-stack products
 - 📫 Reach me: **muhammadashraf2921323@gmail.com**
 
 ---
