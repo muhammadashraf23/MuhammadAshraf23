@@ -63,9 +63,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadashraf23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=muhammadashraf23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadashraf23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-one-mauve-51.vercel.app/api/top-langs/?username=muhammadashraf23&layout=compact&langs_count=8&theme=radical&hide_border=true)
 
 </div>
 
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=muhammadashraf23&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadashraf23&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
