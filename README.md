@@ -19,7 +19,7 @@
 
 > Passionate Full Stack Developer from Pakistan, crafting scalable web applications with modern technologies.
 
-- 🔭 🔭 Currently building: Real-time Pakistani Sign Language (PSL) recognition app — Expo/React Native frontend, FastAPI + TFLite/BiLSTM backend, server-side MediaPipe landmark extraction o[...]
+- 🔭 Currently building: Real-time Pakistani Sign Language (PSL) recognition app — Expo/React Native frontend, FastAPI + TFLite/BiLSTM backend, server-side MediaPipe landmark extraction
 - 🌱 Learning: ML model deployment and optimization for real-time inference
 - 💡 Expertise: TypeScript, React, Next.js, Node.js, React Native, Socket.io, WebRTC
 - 🎯 Focus: Building scalable, production-ready full-stack products
@@ -63,7 +63,7 @@
 
 <div align="center">
   <!-- GitHub stats: shows stars, commits, PRs, issues -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadashraf23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true" alt="Muhammad Ashraf's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadashraf23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true" alt="GitHub Stats"/>
 
   <!-- Top languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadashraf23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
