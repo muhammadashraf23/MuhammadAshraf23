@@ -62,29 +62,27 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadashraf23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadashraf23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadashraf23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true)
 
-</div>
-
-<div align="center" style="margin-top:10px">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadashraf23&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadashraf23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
 </div>
 
-<p align="center"><em>Note: To include private repo stats and avoid rate limits, self-host these services and set <code>GITHUB_TOKEN</code> in the deployment environment.</em></p>
+<div align="center" style="margin-top:20px">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadashraf23&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadashraf23&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=muhammadashraf23&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+
 </div>
 
 ---
