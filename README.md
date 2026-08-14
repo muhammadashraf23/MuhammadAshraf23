@@ -62,16 +62,17 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub stats: shows stars, commits, PRs, issues -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadashraf23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true" alt="GitHub Stats"/>
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadashraf23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  <!-- Top languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadashraf23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadashraf23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <div align="center" style="margin-top:10px">
-  <!-- Streak / Contributions -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadashraf23&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadashraf23&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 </div>
 
 <p align="center"><em>Note: To include private repo stats and avoid rate limits, self-host these services and set <code>GITHUB_TOKEN</code> in the deployment environment.</em></p>
