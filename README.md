@@ -63,15 +63,23 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=muhammadashraf23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true)
-
-![Top Languages](https://github-readme-stats-one-mauve-51.vercel.app/api/top-langs/?username=muhammadashraf23&layout=compact&langs_count=8&theme=radical&hide_border=true)
+<table>
+  <tr>
+    <td width="48%">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=muhammadashraf23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true" alt="GitHub Stats"/>
+    </td>
+    <td width="4%"></td>
+    <td width="48%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadashraf23&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <div align="center" style="margin-top:20px">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadashraf23&theme=tokyonight&hide_border=true)
+<img width="100%" src="https://github-readme-stats-one-mauve-51.vercel.app/api/top-langs/?username=muhammadashraf23&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
 
 </div>
 
@@ -83,6 +91,14 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=muhammadashraf23&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadashraf23&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -111,14 +127,6 @@
 | **Internee.pk Redesign** | Complete website redesign | React.js |
 | **Real-Time Chat** | MERN stack chat application | MongoDB, Express, React, Node |
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadashraf23&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
