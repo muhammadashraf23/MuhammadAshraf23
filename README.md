@@ -19,7 +19,7 @@
 
 > Passionate Full Stack Developer from Pakistan, crafting scalable web applications with modern technologies.
 
-- 🔭 🔭 Currently building: Real-time Pakistani Sign Language (PSL) recognition app — Expo/React Native frontend, FastAPI + TFLite/BiLSTM backend, server-side MediaPipe landmark extraction over WebSocket
+- 🔭 🔭 Currently building: Real-time Pakistani Sign Language (PSL) recognition app — Expo/React Native frontend, FastAPI + TFLite/BiLSTM backend, server-side MediaPipe landmark extraction o[...]
 - 🌱 Learning: ML model deployment and optimization for real-time inference
 - 💡 Expertise: TypeScript, React, Next.js, Node.js, React Native, Socket.io, WebRTC
 - 🎯 Focus: Building scalable, production-ready full-stack products
@@ -62,13 +62,19 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadashraf23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadashraf23&layout=compact&langs_count=8&theme=tokyonight"/>
+  <!-- GitHub stats: shows stars, commits, PRs, issues -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadashraf23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true" alt="Muhammad Ashraf's GitHub stats"/>
+
+  <!-- Top languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadashraf23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadashraf23&theme=tokyonight" alt="GitHub Streak"/>
+<div align="center" style="margin-top:10px">
+  <!-- Streak / Contributions -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadashraf23&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
+
+<p align="center"><em>Note: To include private repo stats and avoid rate limits, self-host these services and set <code>GITHUB_TOKEN</code> in the deployment environment.</em></p>
 
 ---
 
