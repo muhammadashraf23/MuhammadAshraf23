@@ -62,18 +62,18 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
 <table>
   <tr>
     <td width="48%">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=muhammadashraf23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true" alt="GitHub Stats">
+      <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=muhammadashraf23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true" alt="GitHub Stats">
     </td>
     <td width="4%"></td>
     <td width="48%">
-      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadashraf23&hide_border=true&background=0D1117&border=161B22&stroke=161B22&ring=7C3AED&fire=7C3AED&currStreakNum=C9D1D9&currStreakLabel=7C3AED&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Muhammad Ashraf's GitHub Streak"/>
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadashraf23&hide_border=true&background=0D1117&border=161B22&stroke=161B22&ring=7C3AED&fire=7C3AED&currStreakNum=C9D1D9&currStreakLabel=7C3AED&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Muhammad Ashraf's GitHub Streak">
     </td>
   </tr>
 </table>
+</div>
 
 </div>
 
