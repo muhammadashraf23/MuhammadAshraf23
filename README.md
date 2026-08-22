@@ -66,11 +66,11 @@
 <table>
   <tr>
     <td width="48%">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=muhammadashraf23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=muhammadashraf23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true" alt="GitHub Stats">
     </td>
     <td width="4%"></td>
     <td width="48%">
-      <img src="https://streak-stats.demolab.com/?user=muhammadashraf23&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadashraf23&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@
 
 <div align="center" style="margin-top:20px">
 
-<img width="100%" src="https://github-readme-stats-one-mauve-51.vercel.app/api/top-langs/?username=muhammadashraf23&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
+<img width="100%" src="https://github-readme-stats-one-mauve-51.vercel.app/api/top-langs/?username=muhammadashraf23&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages">
 
 </div>
 
