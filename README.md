@@ -62,6 +62,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
+
 <table>
   <tr>
     <td width="48%">
@@ -69,11 +70,10 @@
     </td>
     <td width="4%"></td>
     <td width="48%">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadashraf23&hide_border=true&background=0D1117&border=161B22&stroke=161B22&ring=7C3AED&fire=7C3AED&currStreakNum=C9D1D9&currStreakLabel=7C3AED&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Muhammad Ashraf's GitHub Streak">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadashraf23&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
-</div>
 
 </div>
 
