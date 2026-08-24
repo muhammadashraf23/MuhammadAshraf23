@@ -70,7 +70,7 @@
     </td>
     <td width="4%"></td>
     <td width="48%">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadashraf23&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+      <img width="100%" src="https://streak-stats.demolab.com/?user=muhammadashraf23&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
