@@ -117,14 +117,14 @@
   <tr>
     <td width="50%" align="center">
       <h3>🏭 Business Operations Dashboard</h3>
-      <img src="images/choco-north.png" alt="Business Operations Dashboard" width="100%" height="220" style="object-fit:cover"/>
+      <img src="images/choco-north.png" alt="Business Operations Dashboard" width="100%"/>
       <p>A private factory operations dashboard for recording Orders, Expenses, tracking inventory, managing customer order history, and generating financial reports.</p>
       <p><strong>Next.js • Firebase • TypeScript • TailwindCSS</strong></p>
     </td>
     <td width="50%" align="center">
       <h3><a href="https://baltistanbakingstore.com/">🛒 Baltistan Baking Store</a></h3>
       <a href="https://baltistanbakingstore.com/">
-        <img src="images/baking-store.png" alt="Baltistan Baking Store" width="100%" height="220" style="object-fit:cover"/>
+        <img src="images/baking-store.png" alt="Baltistan Baking Store" width="100%"/>
       </a>
       <p>A high-performance modern e-commerce platform for baking supplies and artisanal ingredients, deployed serverless on Cloudflare Workers.</p>
       <p><strong>Next.js 15 • TypeScript • Cloudflare Workers • Drizzle ORM • TailwindCSS</strong></p>
@@ -133,13 +133,13 @@
   <tr>
     <td width="50%" align="center">
       <h3>🧠 Logic30 – Algorithmic Training Platform</h3>
-      <img src="images/logic30.png" alt="Logic30" width="100%" height="220" style="object-fit:cover"/>
+      <img src="images/logic30.png" alt="Logic30" width="100%"/>
       <p>A structured 30-day algorithmic problem-solving platform featuring in-browser Monaco code execution, real-time skill radars, and interactive learning roadmaps.</p>
       <p><strong>Next.js 16 • TypeScript • TailwindCSS • Monaco Editor • Prisma • Recharts</strong></p>
     </td>
     <td width="50%" align="center">
       <h3>🎥 Zoomaro</h3>
-      <img src="images/zoomaro.png" alt="Zoomaro" width="100%" height="220" style="object-fit:cover"/>
+      <img src="images/zoomaro.png" alt="Zoomaro" width="100%"/>
       <p>A cutting-edge video sharing and communication platform similar to Loom. Enables users to record, share, and collaborate on videos with seamless cloud integration.</p>
       <p><strong>Next.js • Node.js • WebRTC • Cloudinary</strong></p>
     </td>
@@ -147,14 +147,14 @@
   <tr>
     <td width="50%" align="center">
       <h3>💬 Uni-Chat</h3>
-      <img src="images/uni-chat.png" alt="Uni-Chat" width="100%" height="220" style="object-fit:cover"/>
+      <img src="images/uni-chat.png" alt="Uni-Chat" width="100%"/>
       <p>A comprehensive real-time communication suite featuring encrypted chatting, HD video calls, and distributed cloud storage.</p>
       <p><strong>React • Node.js • Socket.io • PeerJS • MongoDB</strong></p>
     </td>
     <td width="50%" align="center">
       <h3><a href="https://github.com/MuhammadAshraf23/attendence-app">📋 Attendance Management System</a></h3>
       <a href="https://github.com/MuhammadAshraf23/attendence-app">
-        <img src="images/attendance.png" alt="Attendance Management System" width="100%" height="220" style="object-fit:cover"/>
+        <img src="images/attendance.png" alt="Attendance Management System" width="100%"/>
       </a>
       <p>A professional full-stack attendance tracking solution designed for scalability. Implements sophisticated authentication and real-time data visualization.</p>
       <p><strong>MongoDB • Express.js • React • Node.js</strong></p>
