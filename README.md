@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36,37&height=220&section=header&text=Muhammad%20Ashraf&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Engineer%20%7C%20Next.js%20%26%20TypeScript%20Specialist%20%7C%20System%20Architect&descAlignY=62&descSize=18" width="100%" alt="Header Banner" />
+<img src="images/banner.svg" width="100%" alt="Muhammad Ashraf — Full Stack Software Engineer" />
 
 <!-- Typing Animation -->
 <a href="https://readme-typing-svg.demolab.com">
@@ -22,7 +22,7 @@
 <!-- Quick Stats Badges -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/muhammadashraf23?label=Followers&style=flat-square&color=238636&logo=github" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=muhammadashraf23&color=0078D4&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Edge_Systems-0078D4?style=flat-square&logo=visualstudiocode" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-success?style=flat-square" alt="Status" />
 </p>
 
@@ -316,8 +316,6 @@ Looking to collaborate on exciting projects, discuss system design, or build som
 </a>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36,37&height=100&section=footer" width="100%" alt="Footer Banner" />
 
 <p>
   <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
