@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="images/banner.svg" width="100%" alt="Muhammad Ashraf — Full Stack Software Engineer" />
+<img src="images/banner.png" width="100%" alt="Muhammad Ashraf — Full Stack Software Engineer" />
 
 <!-- Typing Animation -->
 <a href="https://readme-typing-svg.demolab.com">
