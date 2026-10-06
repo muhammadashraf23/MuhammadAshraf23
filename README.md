@@ -233,7 +233,7 @@ const muhammadAshraf = {
       <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=muhammadashraf23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" alt="Muhammad's GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=muhammadashraf23&theme=tokyonight&hide_border=true&background=1a1b26&stroke=70a5fd&ring=bb9af7&fire=ff9e64&currStreakLabel=70a5fd" alt="Muhammad's GitHub Streak" />
+      <img width="100%" src="https://streak-stats.demolab.com/?user=muhammadashraf23&theme=dark&hide_border=false&v=1" alt="Muhammad's GitHub Streak" />
     </td>
   </tr>
 </table>
