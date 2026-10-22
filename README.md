@@ -252,7 +252,7 @@ const muhammadAshraf = {
 
 <!-- Activity Graph -->
 <div style="margin-top: 10px;">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadashraf23&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=bb9af7" alt="Contribution Graph" />
+  <img width="100%" src="https://github-activity-graph.vercel.app/graph?username=muhammadashraf23&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=bb9af7" alt="Contribution Graph" />
 </div>
 
 <br/>
