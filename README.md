@@ -13,7 +13,7 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://muhammadashraf.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/muhammadashraf23"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/muhammadashrafz23/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/muhammadashraf23"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://drive.google.com/file/d/1wipbvjsy0BPJHCnhiVtNbTJz3XOV6F_y/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-00C853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="mailto:muhammadashraf2921323@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -308,7 +308,7 @@ Looking to collaborate on exciting projects, discuss system design, or build som
 <a href="mailto:muhammadashraf2921323@gmail.com">
   <img src="https://img.shields.io/badge/Direct_Email-muhammadashraf2921323@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/muhammadashraf23">
+<a href="https://www.linkedin.com/in/muhammadashrafz23/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://muhammadashraf.vercel.app/">
